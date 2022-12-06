@@ -3,7 +3,7 @@
     <property name="created">2022-04-14T10:36:04</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.2.4.0.0</property>
-    <property name="modified">2022-04-14T22:22:05</property>
+    <property name="modified">2022-12-06T11:28:21</property>
     <property name="originalScheme">WarmNeon</property>
   </metaInfo>
   <colors>
@@ -572,37 +572,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="464648" />
+        <option name="BACKGROUND" value="545559" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="454847" />
+        <option name="BACKGROUND" value="515957" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="474846" />
+        <option name="BACKGROUND" value="585a55" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="494746" />
+        <option name="BACKGROUND" value="5c5753" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="494545" />
+        <option name="BACKGROUND" value="5c5251" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="494444" />
+        <option name="BACKGROUND" value="5c4d4f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="463d3d" />
+        <option name="BACKGROUND" value="533636" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

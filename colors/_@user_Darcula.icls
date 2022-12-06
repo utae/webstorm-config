@@ -3,43 +3,43 @@
     <property name="created">2022-04-14T10:36:04</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.2.4.0.0</property>
-    <property name="modified">2022-04-14T22:22:05</property>
+    <property name="modified">2022-12-06T11:28:21</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="323234" />
+        <option name="BACKGROUND" value="424347" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="313433" />
+        <option name="BACKGROUND" value="404745" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="333432" />
+        <option name="BACKGROUND" value="464843" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="343332" />
+        <option name="BACKGROUND" value="4b4541" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="343131" />
+        <option name="BACKGROUND" value="4b403f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="343030" />
+        <option name="BACKGROUND" value="4b3c3d" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="332a2a" />
+        <option name="BACKGROUND" value="452828" />
       </value>
     </option>
   </attributes>

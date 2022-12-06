@@ -3,7 +3,7 @@
     <property name="created">2022-04-14T10:36:04</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.2.4.0.0</property>
-    <property name="modified">2022-04-14T22:22:05</property>
+    <property name="modified">2022-12-06T11:28:21</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <colors>
@@ -739,15 +739,15 @@
         <option name="FOREGROUND" value="75715e" />
       </value>
     </option>
-    <option name="HAML_FILTER" baseAttributes="DEFAULT_LABEL" />
-    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_FILTER" baseAttributes="" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
-    <option name="HAML_RUBY_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="HAML_RUBY_CODE" baseAttributes="" />
+    <option name="HAML_RUBY_START" baseAttributes="" />
     <option name="HAML_STRING">
       <value>
         <option name="FOREGROUND" value="e6db74" />
@@ -758,14 +758,14 @@
         <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
-    <option name="HAML_TAG" baseAttributes="TEXT" />
+    <option name="HAML_TAG" baseAttributes="" />
     <option name="HAML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
-    <option name="HAML_TEXT" baseAttributes="TEXT" />
-    <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_TEXT" baseAttributes="" />
+    <option name="HAML_XHTML" baseAttributes="" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
@@ -815,37 +815,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="2e2f2b" />
+        <option name="BACKGROUND" value="3f4140" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="2d312a" />
+        <option name="BACKGROUND" value="3c453d" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="2f312a" />
+        <option name="BACKGROUND" value="43463b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="313029" />
+        <option name="BACKGROUND" value="47433a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="312e28" />
+        <option name="BACKGROUND" value="473d37" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="312d28" />
+        <option name="BACKGROUND" value="473935" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="2f2722" />
+        <option name="BACKGROUND" value="422621" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -876,8 +876,8 @@
         <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="JADE_FILTER_NAME" baseAttributes="" />
+    <option name="JADE_JS_BLOCK" baseAttributes="" />
     <option name="JADE_STATEMENTS">
       <value>
         <option name="FOREGROUND" value="f92672" />
