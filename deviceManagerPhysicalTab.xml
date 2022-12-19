@@ -8,7 +8,7 @@
             <value value="adb-R3CR40FVN3P-zRWyMt._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <name value="Device" />
+        <name value="samsung SM-G998N" />
         <target value="Android 1.0" />
       </PhysicalDevice>
     </physicalDevices>
